@@ -5,10 +5,9 @@
 //  Created by Peter Hartnett on 5/14/22.
 //
 //Day 94 Challenge.
+//This is just a slightly creative use of views and animations to make a fun animation.
 
 import SwiftUI
-
-
 
 
 struct ContentView: View {
